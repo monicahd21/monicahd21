@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I am Monica! 👋</h1>
 
 <p align="center">
-  <a href="">Website</a> •
-  <a href="">Twitter</a> •
-  <a href="">Linkedin</a>
+  <a href="https://github.com/monicahd21">Website</a> •
+  <a href="https://github.com/monicahd21">Twitter</a> •
+  <a href="https://github.com/monicahd21">Linkedin</a>
 </p>
 
 I'm a student of Management & Financial Engineering at EIA University.
