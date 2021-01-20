@@ -9,4 +9,4 @@
 I'm a student of Management & Financial Engineering at EIA University.
 
 * 💼 Currently studying [Python](https://www.python.org) <br/>
-* 📫 I love to [read]()
+* 📫 I love to read
